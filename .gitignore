@@ -3,4 +3,14 @@ node_modules
 .env.local
 .env.production
 .env*.local
+widget-test.html
+ToDo.md
+package-lock.json
+pnpm-lock.yaml
+pnpm-lock.yaml.*
+
 .next/
+dist/
+build/
+node_modules/
+
