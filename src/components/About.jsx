@@ -56,7 +56,7 @@ function About() {
           </div>
           {/* Description Section */}
           <div className="about-description">
-            <div className="about-text">
+            <div className="about-text text-left">
               <h3>Mr. Richard Nsor</h3>
               <p>
                 A male entrepreneur from Bosomkyekye, Ashanti Region, addressing

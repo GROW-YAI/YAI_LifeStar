@@ -220,13 +220,14 @@ nav h2 {
   font-size: 1.8rem;
   margin-bottom: 20px;
   color: #2ecc71;
+  text-align: left;
 }
 
 .about-text p {
   line-height: 1.7;
   margin-bottom: 20px;
   color: #555;
-  text-align: justify;
+  text-align: left;
 }
 
 /* Standardize paragraph text sizes */
@@ -250,6 +251,14 @@ nav h2 {
   padding: 1.5rem;
   background-color: #f8f9fa;
   transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.mission-block h4,
+.mission-block p,
+.contact-text h4,
+.contact-form label,
+.contact-details p {
+  text-align: left;
 }
 
 /* Default colors */
@@ -651,6 +660,7 @@ video {
 .contact-text p {
   margin-bottom: 0;
   color: #666;
+  text-align: left;
 }
 
 /* Footer Styles */
